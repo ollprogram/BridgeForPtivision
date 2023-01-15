@@ -1,5 +1,8 @@
-# TwitchDiscordBridge
-Links the [Discord](https://discord.com) chat and the [Twitch](https://www.twitch.tv) chat together.
+# TwitchDiscordBridge For the Ptivision
+A copy of the [TwitchDiscordBridge](https://github.com/ollprogram/TwitchDiscordBridge) bot made for the Ptivision with new features.
+</br> Links the [Discord](https://discord.com) chat and the [Twitch](https://www.twitch.tv) chat together. 
+# What is Ptivision :
+Ptivision is a Discord server made for events that look like the Eurovision. For more information join the discord server [here](https://discord.gg/Y66rvm9YE7)
 # Author and Licence :
 Hi I'm ollprogram and I am the author of this project. Thanks for using it. </br>Please don't be afraid to report bugs or mistakes to me. I'll try to fix them. By the way, english isn't my main language, so I'm sorry for english mistakes but I'm open if you find some. </br>
 Find information about the licence used for this project [here](https://github.com/ollprogram/TwitchDiscordBridge/blob/main/LICENSE).
